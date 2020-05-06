@@ -1,0 +1,25 @@
+.bg-sport {
+  background: url("") center no-repeat;
+  background-size: cover;
+}
+.bg-radiowoz {
+  background: url("") center no-repeat;
+  background-size: cover;
+}
+.bg-yellow {
+  background: #FFDE10;
+}
+.bg-white {
+  background: #fff;
+}
+.bg-yellow .sppb-container-inner, .bg-white .sppb-container-inner  {
+  max-width: 1190px;
+  margin: 0 auto !important;
+}
+.articles-list .sppb-addon-articles .sppb-addon-article {
+  margin-bottom: 0;
+}
+.max-width-small {
+  max-width: 1190px;
+  margin: 0 auto !important;
+}
